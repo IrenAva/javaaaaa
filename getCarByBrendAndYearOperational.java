@@ -21,7 +21,6 @@ public class getCarByBrendAndYearOperational {
                 count++;
             }
         }
-        
         Car[] result = new Car[count];
         int index = 0;
         
